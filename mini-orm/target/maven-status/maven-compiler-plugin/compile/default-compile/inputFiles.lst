@@ -1,0 +1,16 @@
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\annotations\Column.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\annotations\Entity.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\annotations\GeneratedValue.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\annotations\Id.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\App.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\app\Main.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\core\EntityManager.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\core\GenericRepository.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\core\InMemoryRepository.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\dto\RegisterProductDto.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\dto\RegisterUserDto.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\enums\GenerationType.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\models\Product.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\models\User.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\service\ProductService.java
+D:\Practica4-SIS414\mini-orm\src\main\java\com\miniorm\service\UserService.java

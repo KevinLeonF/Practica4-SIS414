@@ -1,0 +1,16 @@
+com\miniorm\App.class
+com\miniorm\dto\RegisterUserDto.class
+com\miniorm\annotations\Entity.class
+com\miniorm\app\Main.class
+com\miniorm\service\UserService.class
+com\miniorm\models\Product.class
+com\miniorm\models\User.class
+com\miniorm\annotations\Column.class
+com\miniorm\annotations\Id.class
+com\miniorm\dto\RegisterProductDto.class
+com\miniorm\service\ProductService.class
+com\miniorm\core\GenericRepository.class
+com\miniorm\enums\GenerationType.class
+com\miniorm\core\InMemoryRepository.class
+com\miniorm\annotations\GeneratedValue.class
+com\miniorm\core\EntityManager.class
